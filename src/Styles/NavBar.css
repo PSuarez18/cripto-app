@@ -5,7 +5,7 @@
     z-index: 100;
     background-color: transparent;
     backdrop-filter: blur(10px) opacity(50%);
-    box-shadow: 0px 0px 10px 5px rgba(255, 255, 255, 0.897);
+    box-shadow: 0px 0px 2px 0.3px rgba(255, 255, 255, 0.897);
 
 }
 .smallNav-search-bar {
@@ -30,21 +30,6 @@
     outline: 0;
     box-shadow: 0 0 0 0.1rem rgba(255, 255, 255, 0.957);
 }
-
-/* Estilo para el botón de búsqueda */
-.navbarMain .btn-outline-success {
-    color: #ffffff;
-    /* Cambia el color del texto del botón según tus necesidades */
-    border-color: #ffffff;
-    /* Cambia el color del borde del botón según tus necesidades */
-}
-
-/* Estilo para el botón de búsqueda al pasar el ratón sobre él */
-.navbarMain .btn-outline-success:hover {
-    color: #ffffff;
-    /* Cambia el color del texto al pasar el ratón */
-    background-color: #000000;
-    /* Cambia el color de fondo al pasar el ratón */
-    border-color: #040404;
-    /* Cambia el color del borde al pasar el ratón */
+.custom {
+    background: transparent !important;
 }
