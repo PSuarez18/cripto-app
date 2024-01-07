@@ -3,7 +3,7 @@
 const Detail = () => {
     return (
         <div>
-            <p>soy el detalle</p>
+            <p style={{color:"white"}}>soy el detalle</p>
 
         </div>
 

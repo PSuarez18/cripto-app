@@ -4,7 +4,7 @@ const Footer = () => {
     return (
         <div className="footer-nav">
             <div>
-                <h2>Monedas Populares</h2>
+                <h5>Monedas Populares</h5>
                 <Link to="/currencies/us-dollar">Dolar USA</Link>
                 <Link to="/currencies/euro">Euro</Link>
                 <Link to="/currencies/swiss-franc">Franco Suizo</Link>
